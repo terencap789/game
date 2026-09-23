@@ -29,7 +29,10 @@ function resetGame() {
   snake = [
     { x: 12, y: 12 },
     { x: 11, y: 12 },
-    { x: 10, y: 12 }
+    { x: 10, y: 12 },
+    { x: 9, y: 12},
+    { x: 8, y: 12},
+    { x: 7, y: 12}
   ];
   direction = { x: 1, y: 0 };
   nextDirection = { x: 1, y: 0 };
